@@ -1,0 +1,43 @@
+/* .container {
+  display: grid;
+  grid-template-columns: 600px 600px;
+} */
+
+.card {
+  border: 1px solid;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.input-wraper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.input-country {
+  width: 500px;
+  height: 20px;
+}
+
+.country-title {
+  text-align: center;
+  font-size: 30px;
+}
+
+.country-informaton {
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  line-height: 60px;
+}
+
+.country-inf-list {
+  list-style: none;
+  padding-right: 50px;
+}
+
+.inf-title {
+  font-weight: bold;
+}
